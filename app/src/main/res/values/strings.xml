@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">chatcomgps</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="no_email_no_pic">Digite o e-mail antes de tirar foto</string>
+    <string name="cant_take_pic">A foto não foi tirada, tente novamente</string>
+    <string name="no_pic_taken">A foto não foi tirada</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">Sem GPS não vai rolar</string>
+    <string name="lat_long">Lat: %f, Long: %f</string>
+    <string name="uri_mapa">geo:%f, %f</string>
+</resources>

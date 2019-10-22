@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108436258711",
+    "firebase_url": "https://chatcomgps.firebaseio.com",
+    "project_id": "chatcomgps",
+    "storage_bucket": "chatcomgps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108436258711:android:5ca678b403df1f22dcced2",
+        "android_client_info": {
+          "package_name": "com.example.chatcomgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108436258711-rdjkv23phktsna0tti3hrneaus1e85kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatcomgps",
+            "certificate_hash": "fc48b0ae23d575caf69f4cdd99ef172796be713d"
+          }
+        },
+        {
+          "client_id": "108436258711-tpqisg66m1q8or9j1p4k5r3qssir6eh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNRi_Nn7GKNV6h7g8nmke6KA62TJJT4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108436258711-tpqisg66m1q8or9j1p4k5r3qssir6eh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
