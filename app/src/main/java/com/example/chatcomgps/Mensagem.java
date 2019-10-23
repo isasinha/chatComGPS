@@ -15,8 +15,12 @@ class Mensagem implements Comparable<Mensagem>{
     private String texto;
     private Date data;
     private String email;
+    private String location;
 
-    public Mensagem(){
+    public Mensagem(Date data, String email, String location) {
+        this.data = data;
+        this.email = email;
+        this.location = location;
     }
 
     public Mensagem(String texto, Date data, String email) {
@@ -24,6 +28,11 @@ class Mensagem implements Comparable<Mensagem>{
         this.data = data;
         this.email = email;
     }
+
+
+    public Mensagem(){
+    }
+
 
     public String getTexto() {
         return texto;
@@ -49,5 +58,12 @@ class Mensagem implements Comparable<Mensagem>{
         this.email = email;
     }
 
+    public String getLocation() {
+        return location;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
 }
 
